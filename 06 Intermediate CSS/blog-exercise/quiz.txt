@@ -1,0 +1,20 @@
+border color: #bdc3c7
+
+date color: #3498db
+
+h2 color: #2c3e50
+
+use hr for the line
+
+blockquote is a left border turned on with thinner pixels that the body which is 20px
+
+grey box is a border around the body, has 20px border
+
+make sure all the padding-left is the same amongst elements
+
+use text-transform for dates being all caps , there is also letter spacing u need to figure out
+
+add custom colors and fonts after
+
+
+add font: complete
