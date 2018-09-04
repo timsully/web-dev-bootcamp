@@ -1,3 +1,4 @@
+/* startpoint */
 body {
   margin: 30px auto;
   font-family: 'Titillium Web', sans-serif;
@@ -16,10 +17,6 @@ h2 {
   padding-left: 2%;
 }
 
-.bquote {
-  border-left: 6px solid #bdc3c7;
-}
-
 blockquote {
   width: 100%;
   padding-left: 5px;
@@ -33,3 +30,8 @@ hr {
 .container {
   width: 80%;
 }
+
+.bquote {
+  border-left: 6px solid #bdc3c7;
+}
+/* endpoint */
