@@ -1,37 +1,35 @@
 /* startpoint */
 body {
-  margin: 30px auto;
   font-family: 'Titillium Web', sans-serif;
-  /* width: 80%; */
+  padding: 20px;
+  width: 700px;
   border: 20px solid #bdc3c7;
-}
-
-h1 {
-  padding-left: 2%;
-}
-
-h2 {
-  color: #2c3e50;
-  text-transform: uppercase;
-  color: #3498db;
-  padding-left: 2%;
+  margin: 20px auto;
 }
 
 blockquote {
-  width: 100%;
+  margin: 0;
   padding-left: 5px;
 }
 
 hr {
-  width: 100%;
-  margin-left: 2%;
+  border: 0.5px solid black;
 }
 
-.container {
-  width: 80%;
+.post {
+  margin-bottom: 20px;
 }
 
 .bquote {
+  padding-left: 5px;
   border-left: 6px solid #bdc3c7;
+}
+
+.date {
+  font-size: 18px;
+  color: #2c3e50;
+  text-transform: uppercase;
+  color: #3498db;
+  letter-spacing: 0.2rem;
 }
 /* endpoint */
