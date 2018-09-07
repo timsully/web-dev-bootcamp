@@ -1,12 +1,29 @@
+html {
+  height: 100%;
+}
+
 body {
   background: url(https://i.ytimg.com/vi/7QzPsehkzwY/maxresdefault.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   font-family: 'Lato', sans-serif;
+  color: white;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+}
+
+hr {
+  width: 600px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2); /* applies shadow */
 }
 
 #content {
   text-align: center;
+  text-shadow: 0px 1px 1px blue;
   padding-top: 25%;
 }
